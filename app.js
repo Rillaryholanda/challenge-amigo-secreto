@@ -15,7 +15,7 @@ function adicionarAmigo() {
         Swal.fire({
             title: 'Atenção!',
             text: 'Por favor, digite um nome válido!',
-            icon: 'warning',  // Ícone de alerta
+            icon: 'warning',  // Ícone de alert
             confirmButtonText: 'Entendido',  // Texto personalizado no botão
             confirmButtonColor: '#4B69FD'  // Cor personalizada do botão
           });
